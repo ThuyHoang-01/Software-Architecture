@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sender/1.0.0": {
+        "dependencies": {
+          "Apache.NMS.ActiveMQ": "1.7.2.4108",
+          "Apache.NMS": "1.7.1.3894"
+        },
+        "runtime": {
+          "Sender.dll": {}
+        }
+      },
+      "Apache.NMS.ActiveMQ/1.7.2.4108": {
+        "runtime": {
+          "Apache.NMS.ActiveMQ.dll": {
+            "assemblyVersion": "1.7.2.4108",
+            "fileVersion": "1.7.2.4108"
+          }
+        }
+      },
+      "Apache.NMS/1.7.1.3894": {
+        "runtime": {
+          "Apache.NMS.dll": {
+            "assemblyVersion": "1.7.1.3894",
+            "fileVersion": "1.7.1.3894"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sender/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.NMS.ActiveMQ/1.7.2.4108": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apache.NMS/1.7.1.3894": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

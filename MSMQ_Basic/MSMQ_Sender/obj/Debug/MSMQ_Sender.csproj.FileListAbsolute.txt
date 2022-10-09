@@ -1,0 +1,5 @@
+D:\KienTruc&ThietKePhanMem\MSMQ_Basic\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe.config
+D:\KienTruc&ThietKePhanMem\MSMQ_Basic\MSMQ_Sender\obj\Debug\MSMQ_Sender.csprojResolveAssemblyReference.cache
+D:\KienTruc&ThietKePhanMem\MSMQ_Basic\MSMQ_Sender\obj\Debug\MSMQ_Sender.F_MessageSender.resources
+D:\KienTruc&ThietKePhanMem\MSMQ_Basic\MSMQ_Sender\obj\Debug\MSMQ_Sender.Properties.Resources.resources
+D:\KienTruc&ThietKePhanMem\MSMQ_Basic\MSMQ_Sender\obj\Debug\MSMQ_Sender.csproj.GenerateResource.Cache

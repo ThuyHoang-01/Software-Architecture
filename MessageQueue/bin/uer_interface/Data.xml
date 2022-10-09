@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+	<listPerson mssv="1">
+		<hoten>A</hoten>
+		<ngaysinh>2022-09-29T10:06:53.146+07:00</ngaysinh>
+	</listPerson>
+	<listPerson mssv="2">
+		<hoten>A</hoten>
+		<ngaysinh>2022-09-29T10:07:01.496+07:00</ngaysinh>
+	</listPerson>
+</persons>
+
+<persons>
+	<person mssv="1">
+		<hoten>A</hoten>
+		<ngaysinh>2022-09-29T10:10:36.568+07:00</ngaysinh>
+	</person>
+	<person mssv="2">
+		<hoten>A</hoten>
+		<ngaysinh>2022-09-29T10:10:38.398+07:00</ngaysinh>
+	</person>
+</persons>
+
+<person mssv="1">
+	<hoten>A</hoten>
+	<ngaysinh>2022-09-29T10:05:14.099+07:00</ngaysinh>
+</person>
+
+<persons>
+	<person>
+		<hoten>A</hoten>
+		<mssv>1</mssv>
+		<ngaysinh>2022-09-29T10:30:42.068+07:00</ngaysinh>
+	</person>
+	<person>
+		<hoten>A</hoten>
+		<mssv>2</mssv>
+		<ngaysinh>2022-09-29T10:30:44.113+07:00</ngaysinh>
+	</person>
+	<person>
+		<hoten>A</hoten>
+		<mssv>3</mssv>
+		<ngaysinh>2022-09-29T10:30:45.977+07:00</ngaysinh>
+	</person>
+</persons>

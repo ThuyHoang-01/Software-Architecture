@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQ_Sender", "MSMQ_Sender\MSMQ_Sender.csproj", "{294263D5-9E60-4E1F-AEE2-ECB1063030A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMQ_Receive", "MSMQ_Receive\MSMQ_Receive.csproj", "{F1FD5636-34CB-42C9-AF9B-589BB50CCEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObjects", "BusinessObjects\BusinessObjects.csproj", "{4F40A23A-318A-4DBF-89DE-967A2F9CFC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294263D5-9E60-4E1F-AEE2-ECB1063030A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294263D5-9E60-4E1F-AEE2-ECB1063030A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294263D5-9E60-4E1F-AEE2-ECB1063030A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294263D5-9E60-4E1F-AEE2-ECB1063030A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FD5636-34CB-42C9-AF9B-589BB50CCEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FD5636-34CB-42C9-AF9B-589BB50CCEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FD5636-34CB-42C9-AF9B-589BB50CCEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FD5636-34CB-42C9-AF9B-589BB50CCEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F40A23A-318A-4DBF-89DE-967A2F9CFC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F40A23A-318A-4DBF-89DE-967A2F9CFC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F40A23A-318A-4DBF-89DE-967A2F9CFC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F40A23A-318A-4DBF-89DE-967A2F9CFC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
