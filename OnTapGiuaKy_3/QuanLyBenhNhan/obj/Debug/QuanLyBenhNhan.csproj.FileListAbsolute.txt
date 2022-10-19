@@ -1,0 +1,5 @@
+D:\Software-Architecture\OnTapGiuaKy_3\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.dll
+D:\Software-Architecture\OnTapGiuaKy_3\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.pdb
+D:\Software-Architecture\OnTapGiuaKy_3\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csprojResolveAssemblyReference.cache
+D:\Software-Architecture\OnTapGiuaKy_3\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.dll
+D:\Software-Architecture\OnTapGiuaKy_3\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.pdb

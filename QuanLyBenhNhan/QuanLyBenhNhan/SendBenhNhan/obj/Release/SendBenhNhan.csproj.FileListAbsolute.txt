@@ -1,0 +1,13 @@
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\bin\Release\SendBenhNhan.exe.config
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\bin\Release\SendBenhNhan.exe
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\bin\Release\SendBenhNhan.pdb
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\bin\Release\QuanLyBenhNhan.dll
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\bin\Release\QuanLyBenhNhan.pdb
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Release\SendBenhNhan.csprojAssemblyReference.cache
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Release\SendBenhNhan.Form1.resources
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Release\SendBenhNhan.Properties.Resources.resources
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Release\SendBenhNhan.csproj.GenerateResource.cache
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Release\SendBenhNhan.csproj.CoreCompileInputs.cache
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Release\SendBenhNhan.csproj.CopyComplete
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Release\SendBenhNhan.exe
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Release\SendBenhNhan.pdb

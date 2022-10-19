@@ -1,0 +1,16 @@
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\bin\Debug\Sender.exe.config
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\bin\Debug\Sender.exe
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\bin\Debug\Sender.pdb
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\bin\Debug\QuanLyBenhNhan.dll
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\bin\Debug\QuanLyBenhNhan.pdb
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\obj\Debug\Sender.Form1.resources
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\obj\Debug\Sender.Properties.Resources.resources
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\obj\Debug\Sender.csproj.GenerateResource.Cache
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\obj\Debug\Sender.exe
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\obj\Debug\Sender.pdb
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\bin\Debug\Apache.NMS.ActiveMQ.dll
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\bin\Debug\Apache.NMS.dll
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\bin\Debug\Apache.NMS.pdb
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\bin\Debug\Apache.NMS.ActiveMQ.pdb
+D:\Software-Architecture\OnTapGiuaKy_3\Sender\bin\Debug\Apache.NMS.ActiveMQ.xml

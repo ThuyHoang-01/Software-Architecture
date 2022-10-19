@@ -1,0 +1,47 @@
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\bin\Debug\SendBenhNhan.exe.config
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\bin\Debug\SendBenhNhan.exe
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\bin\Debug\SendBenhNhan.pdb
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\bin\Debug\QuanLyBenhNhan.dll
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\bin\Debug\QuanLyBenhNhan.pdb
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csprojAssemblyReference.cache
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.Form1.resources
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.Properties.Resources.resources
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.GenerateResource.cache
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.CoreCompileInputs.cache
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.CopyComplete
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.exe
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.pdb
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\bin\Debug\SendBenhNhan.exe.config
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\bin\Debug\SendBenhNhan.exe
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\bin\Debug\SendBenhNhan.pdb
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\bin\Debug\QuanLyBenhNhan.dll
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\bin\Debug\QuanLyBenhNhan.pdb
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.Form1.resources
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.Properties.Resources.resources
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.CopyComplete
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.exe
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.pdb
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\bin\Debug\SendBenhNhan.exe.config
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\bin\Debug\SendBenhNhan.exe
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\bin\Debug\SendBenhNhan.pdb
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\bin\Debug\QuanLyBenhNhan.dll
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\bin\Debug\QuanLyBenhNhan.pdb
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.AssemblyReference.cache
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.SuggestedBindingRedirects.cache
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.Form1.resources
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.Properties.Resources.resources
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.GenerateResource.cache
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.CoreCompileInputs.cache
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.CopyComplete
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.exe
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.pdb
+D:\Software-Architecture\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\bin\Debug\SendBenhNhan.exe.config
+D:\Software-Architecture\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.exe
+D:\Software-Architecture\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.pdb
+D:\Software-Architecture\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csprojResolveAssemblyReference.cache
+D:\Software-Architecture\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.Form1.resources
+D:\Software-Architecture\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.Properties.Resources.resources
+D:\Software-Architecture\QuanLyBenhNhan\QuanLyBenhNhan\SendBenhNhan\obj\Debug\SendBenhNhan.csproj.GenerateResource.Cache

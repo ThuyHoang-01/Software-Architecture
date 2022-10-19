@@ -1,0 +1,8 @@
+THI KIẾN TRÚC PHẦN MỀM
+.......Congfig.......
+1. Cấu hình MSMQ: Control Pane -> Bật MessegaQueue
+2. Sau đó kiểm tra lại vào Service 
+3. Tạo Project WindownForm cho Sender -> Add Reference ( System.Messege)
+4. Add Project WindownForm cho Reciever -> Add Reference ( System.Messege)
+5. Tạo Class obj BenhNhan
+

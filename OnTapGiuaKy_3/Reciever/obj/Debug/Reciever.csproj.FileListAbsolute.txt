@@ -1,0 +1,16 @@
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\bin\Debug\Reciever.exe.config
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\obj\Debug\Reciever.csprojResolveAssemblyReference.cache
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\obj\Debug\Reciever.Form1.resources
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\obj\Debug\Reciever.Properties.Resources.resources
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\obj\Debug\Reciever.csproj.GenerateResource.Cache
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\bin\Debug\Reciever.exe
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\bin\Debug\Reciever.pdb
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\bin\Debug\QuanLyBenhNhan.dll
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\bin\Debug\QuanLyBenhNhan.pdb
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\obj\Debug\Reciever.exe
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\obj\Debug\Reciever.pdb
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\bin\Debug\Apache.NMS.ActiveMQ.dll
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\bin\Debug\Apache.NMS.dll
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\bin\Debug\Apache.NMS.pdb
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\bin\Debug\Apache.NMS.ActiveMQ.pdb
+D:\Software-Architecture\OnTapGiuaKy_3\Reciever\bin\Debug\Apache.NMS.ActiveMQ.xml

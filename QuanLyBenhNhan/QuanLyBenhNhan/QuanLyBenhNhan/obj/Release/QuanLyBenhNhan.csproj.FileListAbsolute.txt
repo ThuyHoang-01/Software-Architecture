@@ -1,0 +1,5 @@
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\QuanLyBenhNhan\bin\Release\QuanLyBenhNhan.dll
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\QuanLyBenhNhan\bin\Release\QuanLyBenhNhan.pdb
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\QuanLyBenhNhan\obj\Release\QuanLyBenhNhan.csproj.CoreCompileInputs.cache
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\QuanLyBenhNhan\obj\Release\QuanLyBenhNhan.dll
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\QuanLyBenhNhan\obj\Release\QuanLyBenhNhan.pdb

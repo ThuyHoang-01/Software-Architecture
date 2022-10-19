@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{68FBDCEB-712A-49DC-B3BA-04D5010EBE91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reciever", "Reciever\Reciever.csproj", "{4F1F09F1-8F84-4684-AA5E-C420F7E7F3F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyBenhNhan", "QuanLyBenhNhan\QuanLyBenhNhan.csproj", "{E7E79FC2-6FCC-4307-A1BA-608D129DFC78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FBDCEB-712A-49DC-B3BA-04D5010EBE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FBDCEB-712A-49DC-B3BA-04D5010EBE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FBDCEB-712A-49DC-B3BA-04D5010EBE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FBDCEB-712A-49DC-B3BA-04D5010EBE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F1F09F1-8F84-4684-AA5E-C420F7E7F3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1F09F1-8F84-4684-AA5E-C420F7E7F3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1F09F1-8F84-4684-AA5E-C420F7E7F3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1F09F1-8F84-4684-AA5E-C420F7E7F3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E79FC2-6FCC-4307-A1BA-608D129DFC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E79FC2-6FCC-4307-A1BA-608D129DFC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E79FC2-6FCC-4307-A1BA-608D129DFC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E79FC2-6FCC-4307-A1BA-608D129DFC78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

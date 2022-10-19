@@ -1,0 +1,40 @@
+-----Bệnh nhân:
+ID:1
+
+Tên:1
+CMND:1
+Địa chỉ:1
+Ghi chú:nho
+-----Bệnh nhân:
+ID:101
+
+Tên:Võ Minh Phương
+CMND:258743154
+Địa chỉ:66 lơi
+Ghi chú:Khám đầu lí chấn thương so não
+-----Bệnh nhân:
+ID:101
+
+Tên:
+CMND:
+Địa chỉ:
+Ghi chú:
+-----Bệnh nhân:
+ID:1
+
+Tên:1
+CMND:1
+Địa chỉ:1
+Ghi chú:1
+-----Bệnh nhân:
+ID:
+Tên:
+CMND:
+Địa chỉ:
+Ghi chú:
+-----Bệnh nhân:
+ID:
+Tên:
+CMND:
+Địa chỉ:
+Ghi chú:

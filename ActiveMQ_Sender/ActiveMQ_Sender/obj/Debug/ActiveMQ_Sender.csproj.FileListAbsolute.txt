@@ -1,0 +1,1 @@
+D:\Software-Architecture\ActiveMQ_Sender\ActiveMQ_Sender\bin\Debug\ActiveMQ_Sender.exe.config

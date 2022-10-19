@@ -1,0 +1,22 @@
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.dll
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.pdb
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csprojAssemblyReference.cache
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csproj.CoreCompileInputs.cache
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.dll
+D:\Documents\1.Tài liệu Môn Học----------------------------\Kiến trúc-Thiết kế PM\VS Studio(Code)\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.pdb
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.dll
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.pdb
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.dll
+C:\Users\ACER\Downloads\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.pdb
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.dll
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.pdb
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csproj.AssemblyReference.cache
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.csproj.CoreCompileInputs.cache
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.dll
+D:\HKI_2022-2023\KTPM\ThamKhao\KT_TKPM\ThucHanh\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.pdb
+D:\Software-Architecture\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.dll
+D:\Software-Architecture\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.pdb
+D:\Software-Architecture\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.dll
+D:\Software-Architecture\QuanLyBenhNhan\QuanLyBenhNhan\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.pdb

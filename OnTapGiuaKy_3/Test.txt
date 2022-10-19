@@ -1,0 +1,40 @@
+-----Bệnh nhân:
+ID:1
+
+Tên:1
+CMND:1
+Địa chỉ:1
+Ghi chú:nho
+-----Bệnh nhân:
+ID:101
+
+Tên:Hoang To Thuy
+CMND:258743154
+Địa chỉ:49 Huynh khuong an
+Ghi chú: Kham suc khoe tong quat
+-----Bệnh nhân:
+ID:101
+
+Tên:
+CMND:
+Địa chỉ:
+Ghi chú:
+-----Bệnh nhân:
+ID:1
+
+Tên:1
+CMND:1
+Địa chỉ:1
+Ghi chú:1
+-----Bệnh nhân:
+ID:
+Tên:
+CMND:
+Địa chỉ:
+Ghi chú:
+-----Bệnh nhân:
+ID:
+Tên:
+CMND:
+Địa chỉ:
+Ghi chú:
