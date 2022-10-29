@@ -1,0 +1,4 @@
+D:\Software-Architecture\19432541_HoangThiToThuy\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.dll
+D:\Software-Architecture\19432541_HoangThiToThuy\QuanLyBenhNhan\bin\Debug\QuanLyBenhNhan.pdb
+D:\Software-Architecture\19432541_HoangThiToThuy\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.dll
+D:\Software-Architecture\19432541_HoangThiToThuy\QuanLyBenhNhan\obj\Debug\QuanLyBenhNhan.pdb

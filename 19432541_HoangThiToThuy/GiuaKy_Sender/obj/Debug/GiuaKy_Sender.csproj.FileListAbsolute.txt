@@ -1,0 +1,11 @@
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Sender\bin\Debug\GiuaKy_Sender.exe.config
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Sender\bin\Debug\GiuaKy_Sender.exe
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Sender\bin\Debug\GiuaKy_Sender.pdb
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Sender\bin\Debug\QuanLyBenhNhan.dll
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Sender\bin\Debug\QuanLyBenhNhan.pdb
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Sender\obj\Debug\GiuaKy_Sender.csprojResolveAssemblyReference.cache
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Sender\obj\Debug\GiuaKy_Sender.Form1.resources
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Sender\obj\Debug\GiuaKy_Sender.Properties.Resources.resources
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Sender\obj\Debug\GiuaKy_Sender.csproj.GenerateResource.Cache
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Sender\obj\Debug\GiuaKy_Sender.exe
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Sender\obj\Debug\GiuaKy_Sender.pdb

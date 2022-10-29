@@ -1,0 +1,11 @@
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Receiver\bin\Debug\GiuaKy_Receiver.exe.config
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Receiver\bin\Debug\GiuaKy_Receiver.exe
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Receiver\bin\Debug\GiuaKy_Receiver.pdb
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Receiver\bin\Debug\QuanLyBenhNhan.dll
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Receiver\bin\Debug\QuanLyBenhNhan.pdb
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Receiver\obj\Debug\GiuaKy_Receiver.csprojResolveAssemblyReference.cache
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Receiver\obj\Debug\GiuaKy_Receiver.Form1.resources
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Receiver\obj\Debug\GiuaKy_Receiver.Properties.Resources.resources
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Receiver\obj\Debug\GiuaKy_Receiver.csproj.GenerateResource.Cache
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Receiver\obj\Debug\GiuaKy_Receiver.exe
+D:\Software-Architecture\19432541_HoangThiToThuy\GiuaKy_Receiver\obj\Debug\GiuaKy_Receiver.pdb

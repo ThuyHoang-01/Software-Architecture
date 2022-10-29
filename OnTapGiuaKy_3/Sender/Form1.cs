@@ -42,8 +42,6 @@ namespace Sender
         }
     
 
-    
-
         private void button1_Click(object sender, EventArgs e)
         {
             long id = long.Parse(textBox1.Text);
