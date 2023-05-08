@@ -1,0 +1,9 @@
+D:\Software-Architecture\CsWebService-client\CsWebService-client\bin\Debug\CsWebService-client.exe.config
+D:\Software-Architecture\CsWebService-client\CsWebService-client\bin\Debug\CsWebService-client.exe
+D:\Software-Architecture\CsWebService-client\CsWebService-client\bin\Debug\CsWebService-client.pdb
+D:\Software-Architecture\CsWebService-client\CsWebService-client\obj\Debug\CsWebService-client.csprojResolveAssemblyReference.cache
+D:\Software-Architecture\CsWebService-client\CsWebService-client\obj\Debug\CsWebService_client.Properties.Resources.resources
+D:\Software-Architecture\CsWebService-client\CsWebService-client\obj\Debug\CsWebService-client.csproj.GenerateResource.Cache
+D:\Software-Architecture\CsWebService-client\CsWebService-client\obj\Debug\CsWebService-client.exe
+D:\Software-Architecture\CsWebService-client\CsWebService-client\obj\Debug\CsWebService-client.pdb
+D:\Software-Architecture\CsWebService-client\CsWebService-client\obj\Debug\CsWebService_client.Form_Client.resources

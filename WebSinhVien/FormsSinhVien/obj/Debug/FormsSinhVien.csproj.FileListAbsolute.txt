@@ -1,0 +1,9 @@
+D:\Software-Architecture\WebSinhVien\FormsSinhVien\bin\Debug\FormsSinhVien.exe.config
+D:\Software-Architecture\WebSinhVien\FormsSinhVien\obj\Debug\FormsSinhVien.csprojResolveAssemblyReference.cache
+D:\Software-Architecture\WebSinhVien\FormsSinhVien\obj\Debug\FormsSinhVien.F_SinhVien.resources
+D:\Software-Architecture\WebSinhVien\FormsSinhVien\obj\Debug\FormsSinhVien.Properties.Resources.resources
+D:\Software-Architecture\WebSinhVien\FormsSinhVien\obj\Debug\FormsSinhVien.csproj.GenerateResource.Cache
+D:\Software-Architecture\WebSinhVien\FormsSinhVien\bin\Debug\FormsSinhVien.exe
+D:\Software-Architecture\WebSinhVien\FormsSinhVien\bin\Debug\FormsSinhVien.pdb
+D:\Software-Architecture\WebSinhVien\FormsSinhVien\obj\Debug\FormsSinhVien.exe
+D:\Software-Architecture\WebSinhVien\FormsSinhVien\obj\Debug\FormsSinhVien.pdb
